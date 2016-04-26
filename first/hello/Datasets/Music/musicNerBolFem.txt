@@ -1,0 +1,93 @@
+300000|Abhirami Ajai|Music
+300001|Aleena Sajjad|Music
+300002|Alisha Chinai|Music
+300003|Alka Ajith|Music
+300004|Alka Yagnik|Music
+300005|Amika Shail|Music
+300006|Amna Farooq|Music
+300007|Amrita Kak|Music
+300008|Andrea Jeremiah|Music
+300009|Anjali|Music
+300010|Anjana Sowmya|Music
+300011|Anupama Deshpande|Music
+300012|Anuradha Paudwal|Music
+300013|Anwesha Dutta|Music
+300014|Asha Boshle|Music
+300015|Bela Shende|Music
+300016|Bela Sulekha|Music
+300017|Bhanumathi Ramakrishna|Music
+300018|Bombay Jayashri|Music
+300019|Chaitra|Music
+300020|Chinmayi|Music
+300021|Falguni Pathak|Music
+300022|Geeta Dutt|Music
+300023|Geeta Madhuri|Music
+300024|Harini|Music
+300025|Harshdeep Kaur|Music
+300026|Hema Sardesai|Music
+300027|Hemalatha|Music
+300028|Jamuna|Music
+300029|Chithra|Music
+300030|Kalpana|Music
+300031|Kavita Krishnamurthy|Music
+300032|Kavitha Subramaniam|Music
+300033|L R Eswari|Music
+300034|Lata Mangeshker|Music
+300035|M S Subbulakshmi|Music
+300036|Madhushree|Music
+300037|Mahalakshmi Iyer|Music
+300038|Mahathi|Music
+300039|Malavika|Music
+300040|Mamta Sharma|Music
+300041|Manjari|Music
+300042|Meenakshi Kushwaha|Music
+300043|Monali Thakur|Music
+300044|Nazia Hassan|Music
+300045|Neeti Mohan|Music
+300046|Neha Bhasin|Music
+300047|Nithya Santhoshini|Music
+300048|Nithyasree Mahadevan|Music
+300049|Noor Jehan|Music
+300050|P Leela|Music
+300051|P Madhuri|Music
+300052|P Suseela|Music
+300053|Palak Muchhal|Music
+300054|Pinky Paras|Music
+300055|Pooja Vaidyanath|Music
+300056|Pragathi|Music
+300057|Priyanka Bharali|Music
+300058|Purnima Jayram|Music
+300059|Ranjana Joglekar|Music
+300060|Rekha Bhardwaj|Music
+300061|S Janaki|Music
+300062|Sachiwhatasinger|Music
+300063|Sadhana Sargam|Music
+300064|Saindhavi|Music
+300065|Saraswati|Music
+300066|Shalmali Kholgade|Music
+300067|Shamshad Begum|Music
+300068|Sheila Chandra|Music
+300069|Shilpa Rao|Music
+300070|Shilpi Paul|Music
+300071|Shraddha Sharma|Music
+300072|Shruti Haasan|Music
+300073|Shweta Mohan|Music
+300074|Sneha Pant|Music
+300075|Sona Mohapatra|Music
+300076|Shreya Ghoshal|Music
+300077|Sujatha Mohan|Music
+300078|Suman Kalyanpur|Music
+300079|Sunidhi Chauhan|Music
+300080|Sunitha Upadrashta|Music
+300081|Suraiya|Music
+300082|Swarnalatha|Music
+300083|Swetha Mohan|Music
+300084|Swetha Pandit|Music
+300085|Tulsi Kumar|Music
+300086|Usha Mangeshkar|Music
+300087|Vaishali Samant|Music
+300088|Vandana Vajpayee|Music
+300089|Vani Jayaram|Music
+300090|Varsha Bhosle|Music
+300091|Veena Sahasrabuddhe|Music
+300092|Zublee|Music

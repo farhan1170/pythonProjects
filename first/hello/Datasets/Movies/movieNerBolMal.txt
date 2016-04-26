@@ -1,0 +1,106 @@
+210001|Aamir Khan|Movie
+210002|Abhay Deol|Movie
+210003|Abhishek Bachchan|Movie
+210004|Ajay Devgan|Movie
+210005|Akshay Kumar|Movie
+210006|Akshaye Khanna|Movie
+210007|Amitabh Bachchan|Movie
+210008|Amjad Khan|Movie
+210009|Amol Palekar|Movie
+210010|Amrish Puri|Movie
+210011|Anil Kapoor|Movie
+210012|Anupam Kher|Movie
+210013|Arbaaz Khan|Movie
+210014|Arjun Rampal|Movie
+210015|Arshad Warsi|Movie
+210016|Ashok Kumar|Movie
+210017|Asrani|Movie
+210018|Bobby Deol|Movie
+210019|Boman Irani|Movie
+210020|Chiranjeevi|Movie
+210021|Chunky Pandey|Movie
+210022|Danny Denzogpa|Movie
+210023|Dara Singh|Movie
+210024|Dev Anand|Movie
+210025|Dharamendra|Movie
+210026|Dilip Kumar|Movie
+210027|Emraan Hashmi|Movie
+210028|Farhan Akhtar|Movie
+210029|Farooq Sheikh|Movie
+210030|Feroz Khan|Movie
+210031|Govinda|Movie
+210032|Gulshan Grover|Movie
+210033|Guru Dutt|Movie
+210034|Hrithik Roshan|Movie
+210035|Irrfan Khan|Movie
+210036|Jackie Shroff|Movie
+210037|Jimmy Shergil|Movie
+210038|Jitendra|Movie
+210039|John Abraham|Movie
+210040|Kadar Khan|Movie
+210041|Kamal Hassan|Movie
+210042|Kishore Kumar|Movie
+210043|Kulbhushan Kharbanda|Movie
+210044|Madhavan|Movie
+210045|Mamooty|Movie
+210046|Manoj Bajpai|Movie
+210047|Manoj Kumar|Movie
+210048|Mehmood|Movie
+210049|Mithun Chakraborty|Movie
+210050|Mohanlal|Movie
+210051|Mohnish Behl|Movie
+210052|Mukesh Khanna|Movie
+210053|Nagarjuna Akkineni|Movie
+210054|Nana Patekar|Movie
+210055|Naseerudin Shah|Movie
+210056|Om Parkash|Movie
+210057|Om Puri|Movie
+210058|Pankaj Kapoor|Movie
+210059|Paresh Rawal|Movie
+210060|Prakash Raj|Movie
+210061|Pran|Movie
+210062|Prem Chopra|Movie
+210063|Prem Nath|Movie
+210064|Prithvi Raj Kapoor|Movie
+210065|Raaj Kumar|Movie
+210066|Rahul Bose|Movie
+210067|Raj Babbar|Movie
+210068|Raj Kapoor|Movie
+210069|Rajendra Kumar|Movie
+210070|Rajesh Khanna|Movie
+210071|Rajnikanth|Movie
+210072|Rakesh Roshan|Movie
+210073|Ranbir Kapoor|Movie
+210074|Randeep Hooda|Movie
+210075|Randhir Kapoor|Movie
+210076|Rishi Kapoor|Movie
+210077|Ritesh Deshmuk|Moviek
+210078|Ronit Roy|Movie
+210079|Saif Ali Khan|Movie
+210080|Salman Khan|Movie
+210081|Sanjay Dutt|Movie
+210082|Sanjeev Kumar|Movie
+210083|Satrughan Sinha|Movie
+210084|Shahid Kapoor|Movie
+210085|Shahrukh khan|Movie
+210085|SRK|Movie
+210085|sharuk khan|Movie
+210085|sharukh khan|Movie
+210085|sharukh|Movie
+210086|Shakti Kapoor|Movie
+210087|Shammi Kapoor|Movie
+210088|Sharman Joshi|Movie
+210089|Shashi Kapoor|Movie
+210090|Shekhar Suman|Movie
+210091|Sunil Dutt|Movie
+210092|Sunil Shetty|Movie
+210093|Sunny Deol|Movie
+210094|Suriya|Movie
+210095|Tushar Kapoor|Movie
+210096|Utpal Dutt|Movie
+210097|Vikram|Movie
+210098|Vinod Khanna|Movie
+210099|Vivek Oberoi|Movie
+210100|Arnold|Movie
+210101|Fahadh|Movie
+210101|Fahadh Fazil|Movie

@@ -1,0 +1,68 @@
+310001|A R Rahman|Music
+310002|Abhijeet Bhattacharya|Music
+310003|Ali Zafar|Music
+310004|Anirudh Ravichander|Music
+310005|Arpit Shukla|Music
+310006|Ash King|Music
+310007|Atif Aslam|Music
+310008|Baabul Supriyo|Music
+310009|Babbu Maan|Music
+310010|Bappi Lahiri|Music
+310011|Benny Dayal|Music
+310012|bid Hameed Khan|Music
+310013|Bilal Saeed|Music
+310014|Freddie Mercury|Music
+310015|Gajendra Varma|Music
+310016|Ghantasala|Music
+310017|Hariharan|Music
+310018|Hemanta Kumar|Music
+310019|Himesh Reshammiya|Music
+310020|Honey Singh|Music
+310021|Javed Ali|Music
+310022|Kailash Kher|Music
+310023|Karthik|Music
+310024|Kishore Kumar|Music
+310025|K J Yesudas|Music
+310026|Kumar Sanu|Music
+310027|Kunal Ganjawala|Music
+310028|Kunnath Krishnakumar|Music
+310029|Lucky Ali|Music
+310030|M Balamuralikrishna|Music
+310031|M G Sreekumar|Music
+310032|Mahendra Kapoor|Music
+310033|Malaysia Vasudevan|Music
+310034|Manapragada Narasimha Murthy|Music
+310035|Manna Dey|Music
+310036|Mano|Music
+310037|Mika Singh|Music
+310038|Mohamed Rafi|Music
+310039|Mohammad Aziz|Music
+310040|Mohit Chauhan|Music
+310041|Mukesh|Music
+310042|Naresh Iyer|Music
+310043|Neeraj Shridhar|Music
+310044|P Jayachandran|Music
+310045|P B Sreenivas|Music
+310046|Papon|Music
+310047|Rafi|Music
+310048|Rahat Fateh Ali Khan|Music
+310049|Rahul Kumar|Music
+310050|Rajesh Krishnan|Music
+310051|Rajkumar|Music
+310052|Roop Kumar Rathod|Music
+310053|Saranyalahul Ghosh|Music
+310054|Shaan|Music
+310055|Shafqat Amanat Ali|Music
+310056|Shankar Mahadevan|Music
+310057|Sonu Nigam|Music
+310058|S P Balasubramaniam|Music
+310059|Sukwinder Singh|Music
+310060|Suresh Wadkar|Music
+310061|T M Soundararajan|Music
+310062|Udit Narayan|Music
+310063|Unni Menon|Music
+310064|Venugopal|Music
+310065|Vinit Singh|Music
+310066|Vinod Rathod|Music
+310067|Yuvan Shankar Raja|Music
+310068|Zubeen Garg|Music

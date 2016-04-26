@@ -1,0 +1,83 @@
+<html>
+<head>
+	<Title>
+			Test Classifier
+	</Title>
+	<script>
+		var allFalg=0;
+		getData=function(){
+			input=document.getElementById("ip").value;
+			return input;
+		}
+		getClassification=function(){
+			input=getData();
+			var xhttp = new XMLHttpRequest();
+			var xhttp = new XMLHttpRequest();
+			xhttp.onreadystatechange = function() {
+				if (xhttp.readyState == 4 && xhttp.status == 200) {
+					document.getElementById("cp").innerHTML = xhttp.responseText;
+					
+						
+				}
+			}
+			xhttp.open("GET", "http://localhost:8000/classification?q="+input, true);
+			xhttp.send();
+
+			
+		}
+		getSentiment=function(){
+			input=getData();
+			var xhttp = new XMLHttpRequest();
+			var xhttp = new XMLHttpRequest();
+			xhttp.onreadystatechange = function() {
+				if (xhttp.readyState == 4 && xhttp.status == 200) {
+					document.getElementById("sp").innerHTML = xhttp.responseText;
+					
+				}
+			}
+			xhttp.open("GET", "http://localhost:8000/sentiment?q="+input, true);
+			xhttp.send();
+		}
+		getEr=function(){
+			allFalg=1;
+			input=getData();
+			var xhttp = new XMLHttpRequest();
+			xhttp.onreadystatechange = function() {
+				if (xhttp.readyState == 4 && xhttp.status == 200) {
+					
+					document.getElementById("ep").innerHTML = xhttp.responseText;
+					
+				}
+			}
+			xhttp.open("GET", "http://localhost:8000/er?q="+input, true);
+			xhttp.send();
+		}
+		getAll=function(){
+			getClassification(1);
+			getSentiment(1);
+			getEr(1);
+		}
+		empty=function(){
+			document.getElementById("cp").innerHTML = "";
+			document.getElementById("sp").innerHTML = "";
+			document.getElementById("ep").innerHTML = "";
+		}
+		
+	</script>
+</head>
+<body>
+	<div align="center" style="position:center">
+		<textarea onkeyup="empty()" id="ip" rows="4" cols="50"></textarea><br><br>
+		<button onclick="getAll()" type="button">All</button><br><br>
+		<button onclick="getClassification()" type="button">Classification</button>
+		<div id="cp"></div>
+		<br><br>
+		<button onclick="getSentiment()" type="button">Sentiment</button>
+		<div id="sp"></div>
+		<br><br>
+		<button onclick="getEr()" type="button">Entity Recognization</button><div id="ep"></div><br><br>
+	 </div>
+	
+		
+</body>
+</html>
